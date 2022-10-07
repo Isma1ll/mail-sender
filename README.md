@@ -21,6 +21,7 @@
 
 ![5 png](https://user-images.githubusercontent.com/114229172/194555298-ec962f19-67a0-41d9-b6f2-4f14bbb871f5.png)
 
+
 <h4>Now Run the Application and press <code>CTRL+SHIFT+V</code> Paste indicated by the red arrow to Enter the Password You Received.
 
   
@@ -29,8 +30,24 @@
   <h5>After entering the password,You can start using the application :)</h5>
 
 ![7](https://user-images.githubusercontent.com/114229172/194557343-cc732fc3-819d-41d6-98f6-676f7def693a.png)
-
+ 
+  <h2>Mail sent by the program.</h2>
 
 ![6](https://user-images.githubusercontent.com/114229172/194557339-53a4b2fc-ddb9-49b5-ad20-ef19f5d7f5c6.png)
 
 
+# Requirements
+  <h2>Paste the following code into your terminal.</h2>
+  
+  <code>pip install -r requirements.txt</code>
+
+# Additional Informations
+  <h4>In the tool you can send Files if you want. however the file extension must not contain the following</h4>
+ 
+## About Me
+  <p>instagram: loui5.fr</p>
+  
+  <p>My mail Adress : cozanqel0811@gmail.com</p>
+  
+  <p>Discord: Gustavo Fring#7285</p>
+  
