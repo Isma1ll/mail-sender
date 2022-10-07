@@ -44,6 +44,8 @@
 # Additional Informations
   <h4>In the tool you can send Files if you want. however the file extension must not contain the following</h4>
   
+  <h5><code>.ade, .adp, .apk, .appx, .appxbundle, .bat, .cab, .chm, .cmd, .com, .cpl, .dll, .dmg, .ex, .ex_, .exe, .hta, .ins, .isp, .iso, .jar, .js, .jse, .lib, .lnk, .mde, .msc, .msi, .msix, .msixbundle, .msp, .mst, .nsh, .pif, .ps1, .scr, .sct, .shb, .sys, .vb, .vbe, .vbs, .vxd, .wsc, .wsf, .wsh</code></h5>
+  
   <h4>Once the Mail is sent, the information is saved in the 'log.txt' file.</h4>
   
   ![9](https://user-images.githubusercontent.com/114229172/194570294-0bba0a0d-79b6-4421-bc1c-4c37b548bb54.png)
