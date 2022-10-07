@@ -43,7 +43,11 @@
 
 # Additional Informations
   <h4>In the tool you can send Files if you want. however the file extension must not contain the following</h4>
- 
+  
+  <h4>Once the Mail is sent, the information is saved in the 'log.txt' file.</h4>
+  
+  ![9](https://user-images.githubusercontent.com/114229172/194570294-0bba0a0d-79b6-4421-bc1c-4c37b548bb54.png)
+
 ## About Me
   <p>instagram: loui5.fr</p>
   
