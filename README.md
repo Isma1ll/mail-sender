@@ -5,4 +5,5 @@ Python Mail sender
 ![3 png](https://user-images.githubusercontent.com/114229172/194555270-a5145d1c-c37d-49fd-8a6b-af94488ddabc.png)
 ![4 png](https://user-images.githubusercontent.com/114229172/194555290-9d5f77c1-b94c-4ae3-8304-7d1cd65097ff.png)
 ![5 png](https://user-images.githubusercontent.com/114229172/194555298-ec962f19-67a0-41d9-b6f2-4f14bbb871f5.png)
-
+![6](https://user-images.githubusercontent.com/114229172/194557339-53a4b2fc-ddb9-49b5-ad20-ef19f5d7f5c6.png)
+![7](https://user-images.githubusercontent.com/114229172/194557343-cc732fc3-819d-41d6-98f6-676f7def693a.png)
