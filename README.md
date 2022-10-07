@@ -21,7 +21,7 @@
 
 ![5 png](https://user-images.githubusercontent.com/114229172/194555298-ec962f19-67a0-41d9-b6f2-4f14bbb871f5.png)
 
-
+<h4>Now Run the Application and press <code>CTRL+SHIFT+V</code> Paste indicated by the red arrow to Enter the Password You Received.
 
 ![8](https://user-images.githubusercontent.com/114229172/194564665-f1b684b3-6a6f-4c2b-a260-09337fd8438c.png)
 
