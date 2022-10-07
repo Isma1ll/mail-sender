@@ -23,9 +23,10 @@
 
 <h4>Now Run the Application and press <code>CTRL+SHIFT+V</code> Paste indicated by the red arrow to Enter the Password You Received.
 
+  
 ![8](https://user-images.githubusercontent.com/114229172/194564665-f1b684b3-6a6f-4c2b-a260-09337fd8438c.png)
 
-
+  <h5>After entering the password,You can start using the application :)</h5>
 
 ![7](https://user-images.githubusercontent.com/114229172/194557343-cc732fc3-819d-41d6-98f6-676f7def693a.png)
 
